@@ -6,12 +6,12 @@ draft = false
 
 ## image test {#image-test}
 
-{{< figure src="/ox-hugo/Pasted_image_20230531123621.png" >}}
+{{< figure src="/my-hugo-blogs/ox-hugo/Pasted_image_20230531123621.png" >}}
 
 
 ## svg test {#svg-test}
 
-{{< figure src="/ox-hugo/Pasted_image_20230615153355.svg" >}}
+{{< figure src="/my-hugo-blogs/ox-hugo/Pasted_image_20230615153355.svg" >}}
 
 
 ## source code test {#source-code-test}
