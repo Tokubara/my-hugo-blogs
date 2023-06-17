@@ -8,6 +8,8 @@ draft = false
 
 {{< figure src="/my-hugo-blogs/ox-hugo/Pasted_image_20230531123621.png" >}}
 
+{{< figure src="/my-hugo-blogs/ox-hugo/Pasted_image_20230614190737.png" >}}
+
 
 ## svg test {#svg-test}
 
